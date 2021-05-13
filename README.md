@@ -1,6 +1,6 @@
-### 코드로 배우는 스프링 부트 웹 프로젝트
+# 코드로 배우는 스프링 부트 웹 프로젝트
 
-## PART 1 스프링 부트 도전하기
+### PART 1 스프링 부트 도전하기
 
 01장 프로젝트를 위한 준비
 1.1 개발 도구의 준비
@@ -22,7 +22,7 @@
 3.3 Thymeleaf의 기본 객체와 LocalDateTime
 3.4 Thymeleaf의 레이아웃
 
-## Part 2 Spring MVC/JPA/Thymeleaf 연습
+### Part 2 Spring MVC/JPA/Thymeleaf 연습
 
 04장 프로젝트 구조 만들기
 4.1 프로젝트의 와이어프레임
