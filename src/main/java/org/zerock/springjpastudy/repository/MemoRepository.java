@@ -21,7 +21,7 @@ public interface MemoRepository extends JpaRepository<Memo, Long> {
 
     /**
      * @Query 어노테이션 사용이유
-     *
+     * <p>
      * 필요한 데이터만 선별적으로 추출하는 기능이 있음
      * 데이터베이스에 맞는 순수한 SQL을 사용하는 기능
      * insert, update, delete와 같은 select가 아닌 DML등을 처리하는 기능 (@Modifying과 함께 사용)
